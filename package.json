@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/rebeccaacero1/node-exercise-practise#readme",
   "dependencies": {
-    "superheroes": "^3.0.0"
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.1.0"
   }
 }
