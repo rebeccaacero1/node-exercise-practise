@@ -1,0 +1,22 @@
+{
+  "name": "exercise-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebeccaacero1/node-exercise-practise.git"
+  },
+  "keywords": [
+    "wd16"
+  ],
+  "author": "wd16 kodego git commit batch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebeccaacero1/node-exercise-practise/issues"
+  },
+  "homepage": "https://github.com/rebeccaacero1/node-exercise-practise#readme"
+}
