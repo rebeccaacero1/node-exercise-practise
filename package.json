@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rebeccaacero1/node-exercise-practise/issues"
   },
-  "homepage": "https://github.com/rebeccaacero1/node-exercise-practise#readme"
+  "homepage": "https://github.com/rebeccaacero1/node-exercise-practise#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
 }
